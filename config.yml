@@ -1,0 +1,12 @@
+#TGCash:
+#{tgcash:cash} -> Pega o cash atual do player
+#{tgcash:top} -> Pega o cash top atual.
+##
+#TGTrabalho:
+#{tgtrabalho:trabalho} -> Pega o trabalho atual do player
+#{tgtrabalho:progresso} -> Pega o progresso atual do player
+#{tgtrabalho:necessario} -> Pega a quantidade necessaria de progresso para completar o trabalho.
+##
+#TGRankUP:
+#{tgrankup:rank} -> Pega o rank atual do player.
+#{tgrankup:tag} -> Pega a tag do rank atual do player.
